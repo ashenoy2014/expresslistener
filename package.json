@@ -1,0 +1,20 @@
+{
+  "name": "expresslistener",
+  "version": "1.0.0",
+  "description": "A dummy listner app to take in GET and POST requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "POST",
+    "GET"
+  ],
+  "author": "Avinash Shenoy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
